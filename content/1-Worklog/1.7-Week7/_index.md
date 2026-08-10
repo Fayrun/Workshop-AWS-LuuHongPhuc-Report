@@ -21,6 +21,7 @@ pre: " <b> 1.7. </b> "
 | 4   | - Start writing the internship report.<br>&emsp;+ Organize project activities, summarize implementation progress, and draft the main report sections.              | 08/05/2026 | 08/05/2026      |                                                            |
 | 5   | - Finalize the internship report.<br>&emsp;+ Review the report, improve formatting, verify references, and prepare the final version for submission.               | 08/06/2026 | 08/06/2026      |                                                            |
 | 6   | - Continue learning the AWS ecosystem.<br>&emsp;+ Explore AWS core services, cloud architecture, and best practices to strengthen cloud computing knowledge.       | 08/07/2026 | 08/07/2026      | [AWS Study Group](https://cloudjourney.awsstudygroup.com/) |
+| 7   | - Joining event AWS FCAJ - Agent Forge Deepdive                                                                                                                    | 08/08/2026 | 08/08/2026      |                                                            |
 
 ### Week 7 Achievements:
 

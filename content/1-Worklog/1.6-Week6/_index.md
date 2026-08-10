@@ -30,4 +30,3 @@ pre: " <b> 1.6. </b> "
 - Filled in all evidence screenshots for the entire System Testing section (5.5), especially Monitoring and Security.
 - Successfully split off and configured a personal report on its own GitHub Pages site, running independently from the team's shared repo.
 - Reviewed, revised, and finalized the personal report before moving into the Workshop submission week.
-- …

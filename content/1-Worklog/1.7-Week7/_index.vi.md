@@ -21,6 +21,7 @@ pre: " <b> 1.7. </b> "
 | 4   | - Bắt đầu viết báo cáo thực tập.<br>&emsp;+ Tổng hợp các công việc đã thực hiện, mô tả quá trình triển khai và xây dựng nội dung các chương của báo cáo.         | 05/08/2026   | 05/08/2026      |                                                            |
 | 5   | - Hoàn thiện báo cáo thực tập.<br>&emsp;+ Rà soát nội dung, chỉnh sửa định dạng, kiểm tra tài liệu tham khảo và chuẩn bị bản cuối cùng để nộp.                   | 06/08/2026   | 06/08/2026      |                                                            |
 | 6   | - Tiếp tục tìm hiểu hệ sinh thái AWS.<br>&emsp;+ Nghiên cứu các dịch vụ cốt lõi, kiến trúc AWS và các best practices nhằm nâng cao kiến thức về Cloud Computing. | 07/08/2026   | 07/08/2026      | [AWS Study Group](https://cloudjourney.awsstudygroup.com/) |
+| 7   | - Tham gia event AWS FCAJ - Agent Forge Deepdive | 08/08/2026   | 08/08/2026      |  |
 
 ### Kết quả đạt được tuần 7:
 

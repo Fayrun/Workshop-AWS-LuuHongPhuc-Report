@@ -30,4 +30,3 @@ pre: " <b> 1.6. </b> "
 - Bổ sung đầy đủ ảnh minh chứng cho toàn bộ phần Kiểm thử hệ thống (5.5), đặc biệt là Monitoring và Security.
 - Tách và cấu hình thành công bản báo cáo cá nhân trên GitHub Pages riêng, hoạt động độc lập với repo chung của nhóm.
 - Rà soát, chỉnh sửa và hoàn thiện nội dung báo cáo cá nhân trước khi bước sang tuần nộp Workshop.
-- …
